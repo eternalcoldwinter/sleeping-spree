@@ -1,0 +1,26 @@
+button {
+    padding: 50px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.aa {
+    margin: auto;
+    margin-left: 420px;
+    display: block;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.bb {
+    margin-top: 10px;
+    border: 2px blue;
+}
